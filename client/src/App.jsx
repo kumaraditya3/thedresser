@@ -38,6 +38,8 @@ function App() {
 
   console.log(isLoading, user);
 
+
+  
   return (
     <div className="flex flex-col overflow-hidden bg-white">
       <Helmet>
